@@ -1,0 +1,16 @@
+============================================================
+Time  2016/07/07 13:37:21 685 
+============================================================
+[2016/07/07 13:37:21 685] legacyuup  305  SYS_MSG_LOAD  
+[2016/07/07 13:37:21 686] legacyuup  218  UUP_MSG_START  
+[2016/07/07 13:37:21 686] legacyuup  220  legacyuup  legacyuup_2b301  268436457  1442971637  
+[2016/07/07 13:37:21 686] legacyuup  263  User set url is   nil  
+[2016/07/07 13:37:21 686] transport  603  paramkvsport is   nil  
+[2016/07/07 13:37:21 686] transport  611  ns_enable=  0  
+[2016/07/07 13:37:21 686] transport  655  url.full=  nil  
+[2016/07/07 13:37:21 686] transport  831  switch 80  
+[2016/07/07 13:37:21 686] transport  838  net type:  standard  
+[2016/07/07 13:37:21 686] transport  839  net operator:  def  
+[2016/07/07 13:37:21 686] transport  840  use proxy:  false  
+[2016/07/07 13:37:21 686] legacyuup  280  not login!  
+[2016/07/07 13:37:36 682] legacyuup  314  SYS_MSG_UNLOAD  
