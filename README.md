@@ -1,3 +1,7 @@
+VoiceInstructionChess
+----------
+Able to use voice-controlled chess program to support a variety of engines.
+
 Start
 ==========
 On the basis of this project, I added the voice control part, which calls the API of IFLYTEK to realize the voice command recognition through the rules similar to Chinese chess.
