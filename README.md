@@ -1,5 +1,11 @@
-Cute Chess
+Start
 ==========
+On the basis of this project, I added the voice control part, which calls the APL of Tektronix Telecon to realize the voice command recognition through the rules similar to Chinese chess.
+
+The following is the original project reference：
+
+Cute Chess
+----------
 
 [![Build Status](https://travis-ci.org/cutechess/cutechess.svg?branch=master)](https://travis-ci.org/cutechess/cutechess) [![Coverity Scan Build Status](https://scan.coverity.com/projects/8561/badge.svg)](https://scan.coverity.com/projects/cutechess-cutechess)
 
